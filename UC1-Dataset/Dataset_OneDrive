@@ -1,0 +1,7 @@
+OneDrive link due to dataset size
+https://stuconestogacon-my.sharepoint.com/:f:/g/personal/ayang8373_conestogac_on_ca/EpcYvrRaJxxBgn8L5zj2IxwBHrBzRW1cpGzdz9BWYe-rgw?e=sngzDU
+
+Dataset has CamearMask (label) and CameraRGB (images)
+File type: png
+CameraRGB: Image Size: 240 x 240 x 3
+CameraMask:            240 x 240 x 1
