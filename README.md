@@ -1,4 +1,3 @@
-@ -1,24 +0,0 @@
 # OceanWatch-
 Projects in Machine Learning-INFO8665 Capstone Project involving three different use cases that all aim to tackle problems related to the ocean
 Project: OceanWatch
